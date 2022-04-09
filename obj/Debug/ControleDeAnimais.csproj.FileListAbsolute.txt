@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\bin\Debug\ControleDeAnimais.exe.config
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\bin\Debug\ControleDeAnimais.exe
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\bin\Debug\ControleDeAnimais.pdb
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.exe
+C:\Users\Caetano\source\repos\ControleDeAnimais\ControleDeAnimais\obj\Debug\ControleDeAnimais.pdb
